@@ -2,8 +2,9 @@
 
 Olá ! Bem vindo ao menu de receitas.
 
-- O Strogonoff de frango
-- Torta de frango
+- O Strogonoff de frango.
+- Coxinha de costela.
+- Torta de frango.
 
 
 
