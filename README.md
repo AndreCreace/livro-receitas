@@ -4,7 +4,7 @@ Olá ! Bem vindo ao menu de receitas.
 
 - Strogonoff de frango
 - Frango a passarinho
-- Pavê
+- Pavê de banana
 - Feijoada
 
 
